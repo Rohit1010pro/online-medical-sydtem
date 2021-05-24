@@ -1,1 +1,1 @@
-# online-medical-sydtem
+# online-medical-system
